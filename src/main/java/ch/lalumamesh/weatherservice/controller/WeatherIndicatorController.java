@@ -18,7 +18,7 @@ public class WeatherIndicatorController {
     }
 
     @GetMapping
-    public WeatherIndicatorResponse get() {
-        return this.weatherIndicatorService.getSevereWeatherIndicator();
+    public int get() {
+        return this.weatherIndicatorService.getSevereWeatherIndicator().getScale();
     }
 }

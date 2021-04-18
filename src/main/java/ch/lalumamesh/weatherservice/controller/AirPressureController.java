@@ -28,7 +28,7 @@ public class AirPressureController {
     }
     @GetMapping
     @RequestMapping("latest")
-    public AirPressure getLatest() {
-        return this.airPressureService.getLatest();
+    public double getLatest() {
+        return this.airPressureService.getLatest().getPressure();
     }
 }

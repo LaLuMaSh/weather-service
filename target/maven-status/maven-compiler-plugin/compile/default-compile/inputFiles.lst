@@ -1,0 +1,17 @@
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\model\dto\WeatherIndicatorResponse.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\service\WeatherIndicatorService.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\controller\TemperatureController.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\model\db\Humidity.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\model\internal\WeatherInformation.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\repository\AirPressureRepository.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\service\AirPressureService.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\controller\WeatherIndicatorController.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\model\db\Temperature.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\controller\HumidityController.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\controller\AirPressureController.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\model\db\AirPressure.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\repository\HumidityRepository.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\service\TemperatureService.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\repository\TemperatureRepository.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\service\HumidityService.java
+C:\projects\tbz\242\weather-service\src\main\java\ch\lalumamesh\weatherservice\WeatherServiceApplication.java

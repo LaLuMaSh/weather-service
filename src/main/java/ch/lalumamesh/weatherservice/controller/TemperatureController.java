@@ -29,7 +29,7 @@ public class TemperatureController {
 
     @GetMapping
     @RequestMapping("latest")
-    public Temperature getLatest() {
-        return this.temperatureService.getLatest();
+    public double getLatest() {
+        return this.temperatureService.getLatest().getTemperature();
     }
 }

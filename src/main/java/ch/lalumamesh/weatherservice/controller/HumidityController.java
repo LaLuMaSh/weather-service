@@ -29,7 +29,7 @@ public class HumidityController {
 
     @GetMapping
     @RequestMapping("latest")
-    public Humidity getLatest() {
-        return this.humidityService.getLatest();
+    public short getLatest() {
+        return this.humidityService.getLatest().getHumidity();
     }
 }

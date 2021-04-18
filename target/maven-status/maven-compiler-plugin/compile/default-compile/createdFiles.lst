@@ -1,0 +1,17 @@
+ch\lalumamesh\weatherservice\service\AirPressureService.class
+ch\lalumamesh\weatherservice\service\WeatherIndicatorService.class
+ch\lalumamesh\weatherservice\WeatherServiceApplication.class
+ch\lalumamesh\weatherservice\service\HumidityService.class
+ch\lalumamesh\weatherservice\model\db\Humidity.class
+ch\lalumamesh\weatherservice\controller\HumidityController.class
+ch\lalumamesh\weatherservice\model\internal\WeatherInformation.class
+ch\lalumamesh\weatherservice\repository\HumidityRepository.class
+ch\lalumamesh\weatherservice\repository\TemperatureRepository.class
+ch\lalumamesh\weatherservice\controller\AirPressureController.class
+ch\lalumamesh\weatherservice\controller\TemperatureController.class
+ch\lalumamesh\weatherservice\repository\AirPressureRepository.class
+ch\lalumamesh\weatherservice\controller\WeatherIndicatorController.class
+ch\lalumamesh\weatherservice\model\db\AirPressure.class
+ch\lalumamesh\weatherservice\service\TemperatureService.class
+ch\lalumamesh\weatherservice\model\db\Temperature.class
+ch\lalumamesh\weatherservice\model\dto\WeatherIndicatorResponse.class
